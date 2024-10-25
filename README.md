@@ -1,1 +1,6 @@
-# CODETECH-TASK1
+Name: ROHAN JADHAV
+Company: CODTECH IT SOLUTIONS PVT.LTD
+ID: CT12DS2578
+Domain: Mern Stack Web Development
+Duration: SEPTEMBER 25th, 2024 to NOVEMBER 25th, 2024
+
